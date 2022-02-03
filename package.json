@@ -1,0 +1,8 @@
+{
+  "name": "react-native-template-srrmstk",
+  "version": "0.0.1",
+  "description": "My React Native template with the most used libs",
+  "repository": "git@github.com:srrmstk/RNTemplate.git",
+  "author": "Danila Soldatov <mistake.trash@gmail.com>",
+  "license": "MIT"
+}
